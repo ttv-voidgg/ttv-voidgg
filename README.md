@@ -1,45 +1,57 @@
-<h2 align="left">Hi 👋! My name is Eejay and I'm a Developer, from Winnipeg</h2>
+# Hi, I'm Juan Carlos de Borja 👋
 
-###
+I'm a passionate Software Engineer, Project Manager, and Senior Web Developer. I specialize in building highly interactive, scalable, and efficient web applications.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttv-voidgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Latest Project: **Talent AI**
 
-###
+🎤 Developed a **Voice-prompted AI** to help job hunters practice for interviews by asking tailored questions and providing real-time feedback. The project uses:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- **Next.js**
+- **Typescript**
+- **React**
+- **TailwindCSS**
+- **Zod**
+- **Google Firebase**
+- **Vercel**
 
-###
+A demo can be provided during the interview.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
 
-<br clear="both">
+### Programming Languages
+![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
+![Zod](https://img.shields.io/badge/-Zod-1E2A47?style=flat&logo=github)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+![Grid.js](https://img.shields.io/badge/-Grid.js-1E2A47?style=flat&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat&logo=mui)
 
-###
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![NoSQL](https://img.shields.io/badge/-NoSQL-1E2A47?style=flat&logo=github)
+
+### Tools & Platforms
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26A1?style=flat&logo=adobe-xd)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
