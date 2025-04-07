@@ -14,7 +14,7 @@ I'm a passionate Software Engineer, Project Manager, and Senior Web Developer. I
 - **Google Firebase**
 - **Vercel**
 
-A demo can be provided during the interview.
+Demo Link available upon request.
 
 ---
 
