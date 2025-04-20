@@ -1,57 +1,174 @@
-# Hi, I'm Juan Carlos de Borja 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/header-image.png" alt="Juan Carlos de Borja - Tech Scientist" width="100%"/>
+</div>
 
-I'm a passionate Software Engineer, Project Manager, and Senior Web Developer. I specialize in building highly interactive, scalable, and efficient web applications.
+<p align="center">
+  <a href="https://linkedin.com/in/jcdeborja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/jcdeborja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:contact@jcdeborja.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## Latest Project: **Talent AI**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/tech-scientist.png" width="250px" alt="Tech Scientist Cartoon"/>
+</div>
 
-🎤 Developed a **Voice-prompted AI** to help job hunters practice for interviews by asking tailored questions and providing real-time feedback. The project uses:
+## 👋 Hello, World! 
 
-- **Next.js**
-- **Typescript**
-- **React**
-- **TailwindCSS**
-- **Zod**
-- **Google Firebase**
-- **Vercel**
+I'm a **Tech Scientist** on a mission to solve real-world problems through innovative technology. With expertise in modern web stacks and a background in project and operations management, I bridge the gap between technical excellence and strategic leadership.
 
-Demo Link available upon request.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/coding-animation.gif" width="400px" alt="Coding Animation"/>
+</div>
+
+## 🔬 Research & Innovation
+
+I approach technology as a scientist - forming hypotheses, experimenting with solutions, and iterating based on data. My work focuses on:
+
+- 🧠 Applying AI/ML to solve practical business challenges
+- 🌐 Building scalable, accessible web applications
+- 📊 Transforming complex data into actionable insights
+- 🚀 Optimizing operations through technological innovation
+
+## 💼 Professional Experience
+
+\`\`\`mermaid
+graph LR
+    A[Software Engineering] --> D[Tech Scientist]
+    B[Project Management] --> D
+    C[Operations Leadership] --> D
+    style D fill:#ff9e00,stroke:#333,stroke-width:2px
+\`\`\`
+
+## 🛠️ Tech Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/typescript.png" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/react.png" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/nextjs.png" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/python.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/tailwind.png" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/node.png" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/firebase.png" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/supabase.png" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/vercel.png" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🎤 Talent AI</b> - AI-powered interview preparation platform</summary>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/talent-ai.png" width="600px" alt="Talent AI Project"/>
+</div>
+
+Developed a voice-prompted AI to help job hunters practice for interviews by asking tailored questions and providing real-time feedback.
+
+**Tech Stack:**
+- Next.js
+- TypeScript
+- React
+- TailwindCSS
+- Zod
+- Google Firebase
+- Vercel
+
+</details>
+
+<details>
+<summary><b>🌐 Project Nexus</b> - Integrated project management system</summary>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/project-nexus.png" width="600px" alt="Project Nexus"/>
+</div>
+
+A comprehensive project management platform that integrates task tracking, resource allocation, and performance analytics.
+
+**Tech Stack:**
+- Vue.js
+- Node.js
+- PostgreSQL
+- Chart.js
+- Docker
+</details>
+
+<details>
+<summary><b>📊 DataViz Pro</b> - Interactive data visualization tool</summary>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/dataviz.png" width="600px" alt="DataViz Pro"/>
+</div>
+
+An interactive tool that transforms complex datasets into intuitive visualizations for business intelligence.
+
+**Tech Stack:**
+- React
+- D3.js
+- Python (Flask)
+- MongoDB
+- AWS
+</details>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcdeborja&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcdeborja&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🌱 Currently Exploring
+
+- 🤖 Large Language Models for business applications
+- 🧩 Microservices architecture optimization
+- 🔄 CI/CD pipeline enhancements
+- 🎨 UI/UX design principles for technical products
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss a project, share research, or just chat about technology, feel free to reach out!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcdeborja/jcdeborja/main/connect.png" width="250px" alt="Let's Connect"/>
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-### Programming Languages
-![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
-![Zod](https://img.shields.io/badge/-Zod-1E2A47?style=flat&logo=github)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
-![Grid.js](https://img.shields.io/badge/-Grid.js-1E2A47?style=flat&logo=github)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat&logo=mui)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![NoSQL](https://img.shields.io/badge/-NoSQL-1E2A47?style=flat&logo=github)
-
-### Tools & Platforms
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26A1?style=flat&logo=adobe-xd)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jcdeborja&color=blueviolet" alt="Profile Views"/>
+  <p>"Technology is best when it brings people together." – Matt Mullenweg</p>
+</div>
