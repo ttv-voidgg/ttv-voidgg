@@ -126,4 +126,61 @@ Developed a voice-prompted AI to help job hunters practice for interviews by ask
 <summary><b>🌐 Project Nexus</b> - Integrated project management system</summary>
 <br>
 <div align="center">
-  <img src="https://cdn.dribbble.
+  <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="600px" alt="Project Nexus"/>
+</div>
+
+A comprehensive project management platform that integrates task tracking, resource allocation, and performance analytics.
+
+**Tech Stack:**
+- Vue.js
+- Node.js
+- PostgreSQL
+- Chart.js
+- Docker
+</details>
+
+<details>
+<summary><b>📊 DataViz Pro</b> - Interactive data visualization tool</summary>
+<br>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2085171/screenshots/14542047/media/2f21ae84df2786f042ccb5708b9e9ea8.gif" width="600px" alt="DataViz Pro"/>
+</div>
+
+An interactive tool that transforms complex datasets into intuitive visualizations for business intelligence.
+
+**Tech Stack:**
+- React
+- D3.js
+- Python (Flask)
+- MongoDB
+- AWS
+</details>
+
+## 📈 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcdeborja&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcdeborja&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+</div>
+
+## 🌱 Currently Exploring
+
+- 🤖 Large Language Models for business applications
+- 🧩 Microservices architecture optimization
+- 🔄 CI/CD pipeline enhancements
+- 🎨 UI/UX design principles for technical products
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss a project, share research, or just chat about technology, feel free to reach out!
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1894420/screenshots/11700268/media/8459e5d7e3e1c0292f57ddb419e2d228.gif" width="250px" alt="Let's Connect"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jcdeborja&color=blueviolet" alt="Profile Views"/>
+  <p>"Technology is best when it brings people together." – Matt Mullenweg</p>
+</div>
