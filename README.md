@@ -9,10 +9,6 @@
   <a href="mailto:contact@jcdeborja.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<div align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/male-scientist-5691590-4741147.png" width="250px" alt="Tech Scientist Cartoon"/>
-</div>
-
 <h2 style="color: #d90166;">👋 Hello, World!</h2>
 
 I'm a <span style="color: #7cfc00;">**Tech Scientist**</span> on a mission to solve real-world problems through innovative technology. With expertise in modern web stacks and a background in project and operations management, I bridge the gap between technical excellence and strategic leadership.
@@ -106,14 +102,12 @@ I approach technology as a scientist - forming hypotheses, experimenting with so
 <details style="background-color: #111111; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
 <summary style="color: #48d1cc;"><b>🎤 Talent AI</b> - AI-powered interview preparation platform</summary>
 <br>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2057890/screenshots/6177968/media/f8c8a1b8a0c1c1d1c9c36c01c87f6c9a.jpg" width="600px" alt="Talent AI Project"/>
-</div>
 
 Developed a voice-prompted AI to help job hunters practice for interviews by asking tailored questions and providing real-time feedback.
 
 <b style="color: #48d1cc;">Tech Stack:</b>
 - <span style="color: #7cfc00;">Next.js</span>
+- <span style="color: #7cfc00;">FaceAPI.js</span>
 - <span style="color: #7cfc00;">TypeScript</span>
 - <span style="color: #7cfc00;">React</span>
 - <span style="color: #7cfc00;">TailwindCSS</span>
