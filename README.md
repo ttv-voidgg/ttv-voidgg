@@ -25,10 +25,10 @@ I'm a <span style="color: #7cfc00;">**Tech Scientist**</span> on a mission to so
 
 I approach technology as a scientist - forming hypotheses, experimenting with solutions, and iterating based on data. My work focuses on:
 
-- <span style="color: #7cfc00;">🧠 Applying AI/ML to solve practical business challenges</span>
-- <span style="color: #7cfc00;">🌐 Building scalable, accessible web applications</span>
-- <span style="color: #7cfc00;">📊 Transforming complex data into actionable insights</span>
-- <span style="color: #7cfc00;">🚀 Optimizing operations through technological innovation</span>
+<span style="color: #7cfc00;">🧠 Applying AI/ML to solve practical business challenges</span>
+<span style="color: #7cfc00;">🌐 Building scalable, accessible web applications</span>
+<span style="color: #7cfc00;">📊 Transforming complex data into actionable insights</span>
+<span style="color: #7cfc00;">🚀 Optimizing operations through technological innovation</span>
 
 <h2 style="color: #d90166;">💼 Professional Experience</h2>
 
@@ -123,40 +123,6 @@ Developed a voice-prompted AI to help job hunters practice for interviews by ask
 
 </details>
 
-<details style="background-color: #111111; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-<summary style="color: #48d1cc;"><b>🌐 Project Nexus</b> - Integrated project management system</summary>
-<br>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif" width="600px" alt="Project Nexus"/>
-</div>
-
-A comprehensive project management platform that integrates task tracking, resource allocation, and performance analytics.
-
-<b style="color: #48d1cc;">Tech Stack:</b>
-- <span style="color: #7cfc00;">Vue.js</span>
-- <span style="color: #7cfc00;">Node.js</span>
-- <span style="color: #7cfc00;">PostgreSQL</span>
-- <span style="color: #7cfc00;">Chart.js</span>
-- <span style="color: #7cfc00;">Docker</span>
-</details>
-
-<details style="background-color: #111111; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-<summary style="color: #48d1cc;"><b>📊 DataViz Pro</b> - Interactive data visualization tool</summary>
-<br>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2085171/screenshots/14542047/media/2f21ae84df2786f042ccb5708b9e9ea8.gif" width="600px" alt="DataViz Pro"/>
-</div>
-
-An interactive tool that transforms complex datasets into intuitive visualizations for business intelligence.
-
-<b style="color: #48d1cc;">Tech Stack:</b>
-- <span style="color: #7cfc00;">React</span>
-- <span style="color: #7cfc00;">D3.js</span>
-- <span style="color: #7cfc00;">Python (Flask)</span>
-- <span style="color: #7cfc00;">MongoDB</span>
-- <span style="color: #7cfc00;">AWS</span>
-</details>
-
 
 <h2 style="color: #d90166;">📈 GitHub Stats</h2>
 
@@ -171,10 +137,10 @@ An interactive tool that transforms complex datasets into intuitive visualizatio
 
 <h2 style="color: #d90166;">🌱 Currently Exploring</h2>
 
-- <span style="color: #7cfc00;">🤖 Large Language Models for business applications</span>
-- <span style="color: #7cfc00;">🧩 Microservices architecture optimization</span>
-- <span style="color: #7cfc00;">🔄 CI/CD pipeline enhancements</span>
-- <span style="color: #7cfc00;">🎨 UI/UX design principles for technical products</span>
+<span style="color: #7cfc00;">🤖 Large Language Models for business applications</span>
+<span style="color: #7cfc00;">🧩 Microservices architecture optimization</span>
+<span style="color: #7cfc00;">🔄 CI/CD pipeline enhancements</span>
+<span style="color: #7cfc00;">🎨 UI/UX design principles for technical products</span>
 
 <h2 style="color: #d90166;">📫 Let's Connect!</h2>
 
