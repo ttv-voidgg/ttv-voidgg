@@ -159,8 +159,12 @@ An interactive tool that transforms complex datasets into intuitive visualizatio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical" alt="GitHub Streak" />
+  <div style="width:50%;display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
+  <div style="width:50%;display:inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical" alt="GitHub Streak" />
+  </div>
 </div>
 
 ## 🌱 Currently Exploring
