@@ -157,44 +157,16 @@ An interactive tool that transforms complex datasets into intuitive visualizatio
 - <span style="color: #7cfc00;">AWS</span>
 </details>
 
-<h2 style="color: #d90166;">📚 My Repositories</h2>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://github.com/ttv-voidgg/repo1" style="text-decoration: none;">
-    <div style="background-color: #111111; border-radius: 6px; padding: 16px; width: 300px; height: 120px;">
-      <h3 style="color: #48d1cc; margin-top: 0;">📦 Repository 1</h3>
-      <p style="color: #ffffff;">Description of your first repository.</p>
-      <div style="display: flex; gap: 8px;">
-        <span style="background-color: #7cfc00; color: #000000; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
-        <span style="background-color: #7cfc00; color: #000000; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/ttv-voidgg/repo2" style="text-decoration: none;">
-    <div style="background-color: #111111; border-radius: 6px; padding: 16px; width: 300px; height: 120px;">
-      <h3 style="color: #48d1cc; margin-top: 0;">📦 Repository 2</h3>
-      <p style="color: #ffffff;">Description of your second repository.</p>
-      <div style="display: flex; gap: 8px;">
-        <span style="background-color: #7cfc00; color: #000000; padding: 3px 8px; border-radius: 4px; font-size: 12px;">TypeScript</span>
-        <span style="background-color: #7cfc00; color: #000000; padding: 3px 8px; border-radius: 4px; font-size: 12px;">Next.js</span>
-      </div>
-    </div>
-  </a>
-</div>
-
-<p style="text-align: center; margin-top: 10px;">
-  <a href="https://github.com/ttv-voidgg?tab=repositories" style="color: #48d1cc; text-decoration: none;">View all repositories →</a>
-</p>
 
 <h2 style="color: #d90166;">📈 GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff&icon_color=7cfc00" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical&hide_border=true&background=000000&ring=48d1cc&fire=d90166&currStreakLabel=48d1cc&sideLabels=48d1cc" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff&icon_color=7cfc00" width="49%" height="250px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical&hide_border=true&background=000000&ring=48d1cc&fire=d90166&currStreakLabel=48d1cc&sideLabels=48d1cc" width="49%" height="250px" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttv-voidgg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff" width="60%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttv-voidgg&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff" width="100%" height="250px" alt="Most Used Languages" />
 </div>
 
 <h2 style="color: #d90166;">🌱 Currently Exploring</h2>
