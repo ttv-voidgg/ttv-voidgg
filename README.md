@@ -161,8 +161,8 @@ An interactive tool that transforms complex datasets into intuitive visualizatio
 <h2 style="color: #d90166;">📈 GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff&icon_color=7cfc00" width="51%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical&hide_border=true&background=000000&ring=48d1cc&fire=d90166&currStreakLabel=48d1cc&sideLabels=48d1cc" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttv-voidgg&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=48d1cc&text_color=ffffff&icon_color=7cfc00" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttv-voidgg&theme=radical&hide_border=true&background=000000&ring=48d1cc&fire=d90166&currStreakLabel=48d1cc&sideLabels=48d1cc" width="51%" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
