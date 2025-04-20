@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Juan Carlos de Borja - Tech Scientist" width="400"/>
+  <img src="https://eejay.me/_next/static/media/cover.f26c91a8.jpg" alt="Juan Carlos de Borja - Tech Scientist" width="400"/>
   <h1>Juan Carlos de Borja</h1>
   <h3>Tech Scientist & Engineering Leader</h3>
 </div>
@@ -19,7 +19,7 @@
 I'm a **Tech Scientist** on a mission to solve real-world problems through innovative technology. With expertise in modern web stacks and a background in project and operations management, I bridge the gap between technical excellence and strategic leadership.
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Coding Animation"/>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Animation"/>
 </div>
 
 ## 🔬 Research & Innovation
@@ -30,18 +30,6 @@ I approach technology as a scientist - forming hypotheses, experimenting with so
 - 🌐 Building scalable, accessible web applications
 - 📊 Transforming complex data into actionable insights
 - 🚀 Optimizing operations through technological innovation
-
-## 💼 Professional Experience
-
-\`\`\`mermaid
-graph LR
-    A[Software Engineering] --> D[Tech Scientist]
-    B[Project Management] --> D
-    C[Operations Leadership] --> D
-    style D fill:#ff9e00,stroke:#333,stroke-width:2px
-\`\`\`
-
-If the Mermaid diagram still doesn't render correctly on GitHub, here's an alternative using HTML and emojis:
 
 ## 💼 Professional Experience
 
