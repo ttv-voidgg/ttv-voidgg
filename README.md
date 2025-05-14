@@ -146,6 +146,6 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ttv-voidgg&color=48d1cc" alt="Profile Views"/>
-  <p style="color: #48d1cc;">"Technology is best when it brings people together." – Matt Mullenweg</p>
+  <p style="color: #48d1cc;">Reason is the slow and tortuous method by which those who do not know the truth discover it. — Blaise Pascal</p>
 </div>
 </div>
